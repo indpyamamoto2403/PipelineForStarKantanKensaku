@@ -1,0 +1,2 @@
+# PipelineForStarKantanKensaku
+簡単検索のダウンロード用パイプライン
